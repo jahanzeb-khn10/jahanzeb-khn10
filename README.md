@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jahanzeb-khn10
 - 👀 I help founders and starups build MVPs
-- 📫 How to reach me wolfnocodestudio.com
+- 📫 How to reach me [https://wolfnocodestudio.com](https://wolfnocodestudio.com/)
 - ⚡ Fun fact: I have 0 experience in coding
 
 <!---
